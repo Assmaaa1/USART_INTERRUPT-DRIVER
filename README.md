@@ -1,7 +1,7 @@
 # USART_INTERRUPT-DRIVER
 USART_INTERRUPT DRIVER FOR STM32F411
 
-This program implement a usart driver and usart driver  for STM32f411 based board
+This program implement a usart driver and usart driver interrupt for STM32f411 based board
 
 It allows not only to send and receive data through uart interface but also 
 
