@@ -2,7 +2,7 @@
 
 /*
 
-This program implement a usart driver and usart driver  for STM32f411 based board
+This program implement a usart driver and usart interrupt driver  for STM32f411 based board
 
 It allows not only to send and receive data through uart interface but also 
 
